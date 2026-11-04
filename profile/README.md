@@ -23,7 +23,7 @@ The cohort includes AFR, AMR, EAS, EUR, MID, and SAS genetic similarity groups. 
 
 ## Pipelines for manuscript analyses
 
-![QTL analysis workflow](https://raw.githubusercontent.com/AoU-Multiomics-Analysis/.github/main/profile/assets/qtl-workflow.svg)
+![QTL analysis workflow](https://raw.githubusercontent.com/AoU-Multiomics-Analysis/.github/main/profile/assets/qtl-workflow.svg?v=ae0ee722aed5)
 
 The study maps expression, splicing, and protein quantitative trait loci: **eQTLs**, **sQTLs**, and **pQTLs**. The table links each analysis stage to its current repository.
 
