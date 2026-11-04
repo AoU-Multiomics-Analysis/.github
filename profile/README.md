@@ -5,6 +5,8 @@ This organization hosts pipelines and analysis tools for the [All of Us Research
 **[Multi-omics in the All Of Us Research Program expands mapping genetic mechanisms in health and disease](https://www.medrxiv.org/content/10.64898/2026.10.29.26366507v1)**  
 Padhi et al. · medRxiv · November 2026
 
+For analysis code, see [QTL Figure code](https://github.com/AoU-Multiomics-Analysis/QTLFigureCode)
+
 ## Study cohort
 
 The manuscript reports a cohort of **10,056 participants** with whole-genome sequencing and plasma proteomics. Total RNA-seq data were available for **9,130 participants**.
