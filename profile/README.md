@@ -9,6 +9,8 @@ For analysis code, see [QTL Figure code](https://github.com/AoU-Multiomics-Analy
 
 ## Study cohort
 
+![All of Us multi-omics cohort overview](https://raw.githubusercontent.com/AoU-Multiomics-Analysis/.github/main/profile/assets/cohort-overview.svg)
+
 The manuscript reports a cohort of **10,056 participants** with whole-genome sequencing and plasma proteomics. Total RNA-seq data were available for **9,130 participants**.
 
 | Molecular data | Participants with data | Participants retained for QTL mapping after QC |
@@ -20,6 +22,8 @@ The manuscript reports a cohort of **10,056 participants** with whole-genome seq
 The cohort includes AFR, AMR, EAS, EUR, MID, and SAS genetic similarity groups. The REM group includes participants outside these reference groups and participants with admixed ancestry.
 
 ## Pipelines for manuscript analyses
+
+![QTL analysis workflow](https://raw.githubusercontent.com/AoU-Multiomics-Analysis/.github/main/profile/assets/qtl-workflow.svg)
 
 The study maps expression, splicing, and protein quantitative trait loci: **eQTLs**, **sQTLs**, and **pQTLs**. The table links each analysis stage to its current repository.
 
